@@ -3,3 +3,8 @@ public class hello{
         System.out.println("Hellow World");
     }
 }
+
+public interface Innerhello {
+hijiovpsfkps
+    
+}
